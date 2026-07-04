@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=SEU_NOME&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20backend.exe%20--java%20--raiz&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Diego%20Braun&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20backend.exe%20--java%20--raiz&descAlignY=55&descAlign=50" width="100%"/>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Diegobraun">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World%22)%3B;Backend+Developer+%7C+Java+Raiz;git+commit+-m+%22feat%3A+mais+um+bug+corrigido%22;42+horas+debugando+um+NullPointerException" alt="Typing SVG" />
 </a>
 
@@ -12,7 +12,7 @@
 
 ```java
 public class Dev {
-    private String nome = "SEU_NOME";
+    private String nome = "Diego Braun";
     private String cargo = "Backend Developer";
     private String[] stack = {"Java", "Spring Boot", "Kubernetes", "Kafka"};
     private boolean cafeNoSangue = true;
@@ -57,8 +57,8 @@ public class Dev {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Diegobraun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegobraun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="48%"/>
 
 </div>
 
@@ -68,8 +68,9 @@ public class Dev {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/diego-braun/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://medium.com/@diegobraun)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:diegobraun2000@gmail.com)
 
 </div>
 
