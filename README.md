@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 <pre align="left">
 [  OK  ] Booting diego-braun-profile.iso
 [  OK  ] Mounting /dev/backend
