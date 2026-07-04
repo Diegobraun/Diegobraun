@@ -1,13 +1,15 @@
 <div align="center">
 
-```
+<div align="center">
+
+<pre align="left">
 [  OK  ] Booting diego-braun-profile.iso
 [  OK  ] Mounting /dev/backend
 [  OK  ] Starting service: java-spring-daemon
 [  OK  ] Starting service: kafka-consumer
 [  OK  ] Connecting to kubernetes cluster... done
 [  OK  ] System ready.
-```
+</pre>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Diego%20Braun&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20backend.exe%20--java%20--raiz&descAlignY=55&descAlign=50" width="100%"/>
 
