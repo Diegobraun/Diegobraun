@@ -1,5 +1,14 @@
 <div align="center">
 
+```
+[  OK  ] Booting diego-braun-profile.iso
+[  OK  ] Mounting /dev/backend
+[  OK  ] Starting service: java-spring-daemon
+[  OK  ] Starting service: kafka-consumer
+[  OK  ] Connecting to kubernetes cluster... done
+[  OK  ] System ready.
+```
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Diego%20Braun&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20backend.exe%20--java%20--raiz&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://github.com/Diegobraun">
@@ -64,6 +73,18 @@ public class Dev {
 
 <br>
 
+<br>
+
+## `> ./contribution_snake.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Diegobraun/Diegobraun/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br>
+
 ## `> connect --social`
 
 <div align="center">
@@ -71,6 +92,12 @@ public class Dev {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/diego-braun/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://medium.com/@diegobraun)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:diegobraun2000@gmail.com)
+
+</div>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Diegobraun&label=connections%20established&color=0d1117&style=for-the-badge&labelColor=000000)
 
 </div>
 
